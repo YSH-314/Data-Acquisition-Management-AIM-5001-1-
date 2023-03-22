@@ -2,7 +2,13 @@
         "Album_name": "Songs I Wrote with Amy",
         "Musical artist": "Ed Sheeran",
         "Publish year": "2010",
-        "Song/Track":"Where We Land", "Fire Alarms", "Cold Coffee", "Fall", "She"
+        "Song/Track":[
+		"Where We Land", 
+		"Fire Alarms", 
+		"Cold Coffee", 
+		"Fall", 
+		"She"
+	]
    
     },
     {
