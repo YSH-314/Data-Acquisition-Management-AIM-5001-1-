@@ -1,6 +1,6 @@
 [{
         "Album_name": "Songs I Wrote with Amy",
-        "Musical artist": ["Ed Sheeran"],
+        "Musical artist": "Ed Sheeran",
         "Publish year": "2010",
         "Song/Track": [
 		"Where We Land",
@@ -13,7 +13,7 @@
     },
     {
         "Album_name": "Midnights",
-        "Musical artist": ["Taylor Swift"],
+        "Musical artist": "Taylor Swift",
         "Publish year": "2022",
         "Song/Track": [
 		"Snow on the Beach",
@@ -25,7 +25,7 @@
     },
     {
         "Album_name": "V",
-        "Musical artist": ["Maroon 5"],
+        "Musical artist": "Maroon 5",
         "Publish year": "2014",
         "Song/Track": [
 		"My Heart Is Open",
